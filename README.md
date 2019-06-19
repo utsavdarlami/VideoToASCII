@@ -6,3 +6,4 @@
 
 ### Example
     ![GIF of Example](https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.jpg)
+    (https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.jpg?raw=true)
