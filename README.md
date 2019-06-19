@@ -5,4 +5,4 @@
     **Scroll Up** in the terminal to get Better printing
 
 ### Example
-    ![Image of Example](https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.gif)
+    ![Image of Example](https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.GIF)
