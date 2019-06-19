@@ -5,5 +5,9 @@
     **Scroll Up** in the terminal to get Better printing
 
 ### Example
-    ![GIF of Example](https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.jpg)
-    (https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.jpg?raw=true)
+
+    ![GIF of Example](https://giphy.com/gifs/XBA2cNw1hLX044cQeh/html5)
+
+    ![hope it works](https://github.com/utsavdarlami/ImageAndVideoToASCII/blob/master/example.gif)
+
+    ![cool cool](https://media.giphy.com/media/XBA2cNw1hLX044cQeh/giphy.gif)
